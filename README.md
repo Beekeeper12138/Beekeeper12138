@@ -1,6 +1,6 @@
 ## Hi there 👋
-https://github-readme-stats.vercel.app/api?username=Beekeeper12138&show_icons=true&theme=transparent
-https://profile-counter.glitch.me/Beekeeper12138.com/count.svg
+![].(https://github-readme-stats.vercel.app/api?username=tech-shrimp&show_icons=true&theme=transparent).
+![Visitor Count](https://profile-counter.glitch.me/tech-shrimp.com/count.svg).
 <!--
 **Beekeeper12138/Beekeeper12138** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

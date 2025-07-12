@@ -1,17 +1,13 @@
-## Hi there 👋
-![].(https://github-readme-stats.vercel.app/api?username=tech-shrimp&show_icons=true&theme=transparent).
-![Visitor Count](https://profile-counter.glitch.me/tech-shrimp.com/count.svg).
-<!--
-**Beekeeper12138/Beekeeper12138** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+YourName!;Full+Stack+Developer;Open+Source+Enthusiast" alt="动态标题" />
+</div>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+```text
+🌍  Based in: City, Country
+🎓  Education: University Degree
+🔭  Working: Current Position @ Company
+🌱  Learning: NextJS, Rust, System Design
+✨  Interests: AI, Cloud Computing, Photography
